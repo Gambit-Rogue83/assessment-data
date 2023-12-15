@@ -146,7 +146,6 @@ module.exports = {
             ('Nauru'),
             ('Nepal'),
             ('Netherlands'),
-            ('Neverland'),
             ('New Zealand'),
             ('Nicaragua'),
             ('Niger'),
